@@ -1,0 +1,20 @@
+.log {
+  --color: var(--color, #242424);
+  border: 1px solid var(--color);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  color: var(--color);
+}
+
+.mission {
+  --color: #1fef1f;
+}
+
+.combat {
+  --color: red;
+}
+
+.discovery {
+  --color: #16f7f7;
+}
